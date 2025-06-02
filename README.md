@@ -31,18 +31,18 @@ Kết quả kiểm thử
 _Kịch bản 1:_
 
 Response Time trung bình: [Điền giá trị] ms
-Throughput: 1.2/giây
-Error Rate: 0%
+_Throughput: 1.2/giây_
+_Error Rate: 0%_
 ![{5464E5D8-1A59-4D35-9EFA-474C86BE0F72}](https://github.com/user-attachments/assets/1afa162e-3802-418e-9290-dfd253aaa37b)
 _Kịch bản 2:_
 
 Response Time trung bình: [Điền giá trị] ms
-Throughput: 30/giây
-Error Rate: 100%
+_Throughput: 30/giây_
+_Error Rate: 100%_
 
 _Kịch bản 3:_
 
 Response Time trung bình: [Điền giá trị] ms
-Throughput: 53/giây
-Error Rate: 0%
+_Throughput: 53/giây_
+_Error Rate: 0%_
 ![{8258624A-297D-4E50-8009-54219D34FBF0}](https://github.com/user-attachments/assets/a283057e-e711-465a-8312-cfb841dd93bd)
